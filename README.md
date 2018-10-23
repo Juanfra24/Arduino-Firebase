@@ -1,2 +1,4 @@
 # Arduino-Firebase
-Na
+Requerimientos:
+-Node mcu Board configuration
+-Firebase arduino library https://github.com/FirebaseExtended/firebase-arduino
